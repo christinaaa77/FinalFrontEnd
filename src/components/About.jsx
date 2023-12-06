@@ -8,7 +8,7 @@ const Home = () => {
     <MyNavbar/>
       <div className="welcome-screen">
         <img
-          src="src/assets/img/grupfe.jpg"
+          src="img/grupfe.jpg"
           alt="Welcome"
           className="welcome-image"
         />
