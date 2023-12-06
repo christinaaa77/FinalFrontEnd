@@ -1,0 +1,32 @@
+/* index.css */
+
+/* Reset margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+}
+h4{
+  text-align: center;
+}
+
+
+/* Remove default list styles */
+ul, ol {
+  list-style: none;
+}
+
+/* Remove potential horizontal scrollbar */
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+/* Enable vertical scrollbar */
+html {
+  overflow-y: scroll;
+}
+
+body {
+  overflow-y: hidden;
+}
